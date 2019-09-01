@@ -1,0 +1,4 @@
+[run]
+include = meta_reference/*
+omit = meta_reference/tests/*
+branch = 1
